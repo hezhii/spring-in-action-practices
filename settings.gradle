@@ -1,0 +1,3 @@
+rootProject.name = 'spring-in-action-practice'
+include 'knight'
+

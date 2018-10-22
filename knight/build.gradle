@@ -1,0 +1,7 @@
+dependencies {
+    compile("org.aspectj:aspectjweaver:${aspectJVersion}") // aop 依赖此 jar 包
+
+    testCompile("junit:junit:${junitVersion}")
+    testCompile("org.mockito:mockito-core:${mockitoVersion}")
+    testCompile("org.springframework:spring-test:${springVersion}")
+}

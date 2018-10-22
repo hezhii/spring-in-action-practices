@@ -1,0 +1,19 @@
+subprojects {
+    group 'com.whezh'
+    version '1.0-SNAPSHOT'
+
+    repositories {
+        mavenCentral()
+    }
+
+    apply plugin: 'java'
+
+    // 不能在 apply plugin: 'java' 之前指定
+    // @see https://stackoverflow.com/questions/21028438/gradle-sourcecompatibility-has-no-effect-to-subprojects
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+
+    dependencies {
+        compile "org.springframework:spring-context:${springVersion}"
+    }
+}
