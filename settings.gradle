@@ -1,3 +1,3 @@
 rootProject.name = 'spring-in-action-practice'
 include 'knight'
-
+include 'stereo-autoconfig'

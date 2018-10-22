@@ -5,3 +5,5 @@
 ## 目录
 
 - 第一章：[Knight](https://github.com/hezhii/spring-in-action-practices/tree/master/knight)
+- 第二章：
+    - [自动装配](https://github.com/hezhii/spring-in-action-practices/tree/master/stereo-autoconfig)
