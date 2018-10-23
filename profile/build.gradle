@@ -1,0 +1,7 @@
+dependencies {
+    compile("org.springframework:spring-jdbc:${springVersion}")
+    compile("com.h2database:h2:${h2Version}")
+
+    testCompile("org.springframework:spring-test:${springVersion}")
+    testCompile "com.github.stefanbirkner:system-rules:${systemRulesVersion}"
+}
