@@ -9,3 +9,4 @@
     - [自动装配](https://github.com/hezhii/spring-in-action-practices/tree/master/stereo)
     - [通过 JavaConfig 注入](https://github.com/hezhii/spring-in-action-practices/commit/2019e9eee711073ebbf53d7627bb435f5db69738)
     - [XML 装配](https://github.com/hezhii/spring-in-action-practices/tree/master/stereo-xmlconfig)
+    - [混合装配](https://github.com/hezhii/spring-in-action-practices/tree/master/stereo-mixedconfig)
