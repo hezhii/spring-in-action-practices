@@ -1,3 +1,4 @@
 rootProject.name = 'spring-in-action-practice'
 include 'knight'
 include 'stereo'
+include 'stereo-xmlconfig'
