@@ -11,4 +11,6 @@
 
   <bean class="concert.Audience" />
 
+  <bean class="concert.EncoreableIntroducer" />
+
 </beans>
