@@ -9,4 +9,5 @@ include 'dessert'
 include 'scopedbeans'
 include 'externals'
 include 'aop'
+include 'aop-params'
 

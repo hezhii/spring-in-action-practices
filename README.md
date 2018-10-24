@@ -18,3 +18,4 @@
     - [运行时值注入](https://github.com/hezhii/spring-in-action-practices/tree/master/externals)
 - 第四章：
     - [使用注解创建切面](https://github.com/hezhii/spring-in-action-practices/tree/master/aop)
+    - [处理通知中的参数](https://github.com/hezhii/spring-in-action-practices/tree/master/aop-params)

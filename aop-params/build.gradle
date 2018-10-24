@@ -1,0 +1,5 @@
+dependencies {
+    compile("org.aspectj:aspectjweaver:${aspectJVersion}")
+
+    testCompile "com.github.stefanbirkner:system-rules:${systemRulesVersion}"
+}
