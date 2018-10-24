@@ -15,3 +15,4 @@
     - [条件化的 bean](https://github.com/hezhii/spring-in-action-practices/tree/master/conditional)
     - [处理自动装配的歧义性](https://github.com/hezhii/spring-in-action-practices/tree/master/dessert)
     - [bean 的作用域](https://github.com/hezhii/spring-in-action-practices/tree/master/scopedbeans)
+    - [运行时值注入](https://github.com/hezhii/spring-in-action-practices/tree/master/externals)
