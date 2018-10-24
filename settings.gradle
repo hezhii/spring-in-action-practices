@@ -8,4 +8,5 @@ include 'conditional'
 include 'dessert'
 include 'scopedbeans'
 include 'externals'
+include 'aop'
 
