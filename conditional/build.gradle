@@ -1,0 +1,4 @@
+dependencies {
+    testCompile("org.springframework:spring-test:${springVersion}")
+    testCompile "com.github.stefanbirkner:system-rules:${systemRulesVersion}"
+}
