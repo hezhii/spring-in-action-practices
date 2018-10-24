@@ -6,4 +6,5 @@ include 'stereo-mixedconfig'
 include 'profile'
 include 'conditional'
 include 'dessert'
+include 'scopedbeans'
 
