@@ -15,5 +15,7 @@ subprojects {
 
     dependencies {
         compile "org.springframework:spring-context:${springVersion}"
+
+        testCompile("org.springframework:spring-test:${springVersion}")
     }
 }
