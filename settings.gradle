@@ -5,4 +5,5 @@ include 'stereo-xmlconfig'
 include 'stereo-mixedconfig'
 include 'profile'
 include 'conditional'
+include 'dessert'
 

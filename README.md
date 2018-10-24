@@ -13,3 +13,4 @@
 - 第三章：
     - [环境与 profile](https://github.com/hezhii/spring-in-action-practices/tree/master/profile)
     - [条件化的 bean](https://github.com/hezhii/spring-in-action-practices/tree/master/conditional)
+    - [处理自动装配的歧义性](https://github.com/hezhii/spring-in-action-practices/tree/master/dessert)
