@@ -1,9 +1,11 @@
 .DS_Store
 
 .idea
-
-.gradle
-/build/
+*.iml
+.settings
+.project
+.classpath
+bin
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -13,3 +15,6 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+
+.gradle
+build/
