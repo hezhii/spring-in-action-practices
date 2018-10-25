@@ -11,4 +11,5 @@ include 'externals'
 include 'aop'
 include 'aop-params'
 include 'aop-xml'
+include 'aop-aspectj'
 

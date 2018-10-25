@@ -21,3 +21,4 @@
     - [处理通知中的参数](https://github.com/hezhii/spring-in-action-practices/tree/master/aop-params)
     - [通过注解引入新功能](https://github.com/hezhii/spring-in-action-practices/tree/master/aop-params)
     - [在 XML 中声明切面](https://github.com/hezhii/spring-in-action-practices/tree/master/aop-xml)
+    - [注入 AspectJ 切面](https://github.com/hezhii/spring-in-action-practices/tree/master/aop-aspectj)
