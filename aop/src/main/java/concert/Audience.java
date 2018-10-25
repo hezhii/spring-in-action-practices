@@ -31,12 +31,12 @@ public class Audience {
 //        System.out.println("Taking seats");
 //    }
 //
-//    @Before("performance()")
+//    @AfterReturning("performance()")
 //    public void applause() {
 //        System.out.println("CLAP CLAP CLAP!!!");
 //    }
 //
-//    @Before("performance()")
+//    @AfterThrowing("performance()")
 //    public void demandRefund() {
 //        System.out.println("Demanding a refund");
 //    }
