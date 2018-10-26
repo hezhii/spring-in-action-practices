@@ -1,0 +1,18 @@
+plugins {
+    id "war"
+}
+
+dependencies {
+    compile "org.springframework:spring-webmvc:$springVersion"
+    compile "org.apache.commons:commons-lang3:$commonsLangVersion"
+    compile "org.hibernate:hibernate-validator:$hibernateValidatorVersion"
+
+    compile "javax.servlet:jstl:$jstlVersion"
+    providedCompile "javax.servlet:javax.servlet-api:$servletApiVersion"
+    providedCompile "javax.servlet.jsp:jsp-api:$jspApiVersion"
+    providedCompile "javax.el:javax.el-api:$jspElVersion"
+
+    testCompile "junit:junit-dep:$junitVersion"
+    testCompile "org.mockito:mockito-core:$mockitoVersion"
+    testCompile "org.hamcrest:hamcrest-library:$hamcrestVersion"
+}
