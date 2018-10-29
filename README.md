@@ -30,3 +30,4 @@
     - [Spring Data](https://github.com/hezhii/spring-in-action-practices/tree/master/springdata)
 - 第十二章：
     - [MongoDD](https://github.com/hezhii/spring-in-action-practices/tree/master/mongodb)
+- 第十三章：[缓存数据](https://github.com/hezhii/spring-in-action-practices/tree/master/caching)

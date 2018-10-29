@@ -18,4 +18,5 @@ include 'hibernate'
 include 'jpa'
 include 'springdata'
 include 'mongodb'
+include 'caching'
 
