@@ -13,3 +13,5 @@ include 'aop-params'
 include 'aop-xml'
 include 'aop-aspectj'
 include 'spittr'
+include 'jdbc'
+
