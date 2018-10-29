@@ -27,3 +27,4 @@
 - 第十一章：
     - [Hibernate](https://github.com/hezhii/spring-in-action-practices/tree/master/hibernate)
     - [JPA](https://github.com/hezhii/spring-in-action-practices/tree/master/jpa)
+    - [Spring Data](https://github.com/hezhii/spring-in-action-practices/tree/master/springdata)
