@@ -15,4 +15,5 @@ include 'aop-aspectj'
 include 'spittr'
 include 'jdbc'
 include 'hibernate'
+include 'jpa'
 
