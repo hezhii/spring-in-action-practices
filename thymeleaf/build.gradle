@@ -1,0 +1,20 @@
+plugins {
+    id "war"
+    id "org.gretty" version "2.2.0"
+}
+
+dependencies {
+    compile "org.springframework:spring-webmvc:$springVersion"
+    compile "org.springframework:spring-jdbc:$springVersion"
+    compile "com.h2database:h2:$h2Version"
+    compile "org.hibernate:hibernate-validator:$hibernateValidatorVersion"
+    compile "org.apache.commons:commons-lang3:$commonsLangVersion"
+    compile "org.thymeleaf:thymeleaf-spring4:$thymeleafVersion"
+
+    providedCompile "javax.servlet:javax.servlet-api:$servletApiVersion"
+
+    testCompile "junit:junit-dep:$junitVersion"
+    testCompile "org.springframework:spring-test:$springVersion"
+    testCompile "org.mockito:mockito-core:$mockitoVersion"
+    testCompile "org.hamcrest:hamcrest-library:$hamcrestVersion"
+}

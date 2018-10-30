@@ -23,6 +23,8 @@
     - [在 XML 中声明切面](https://github.com/hezhii/spring-in-action-practices/tree/master/aop-xml)
     - [注入 AspectJ 切面](https://github.com/hezhii/spring-in-action-practices/tree/master/aop-aspectj)
 - 第五章：[Spittr](https://github.com/hezhii/spring-in-action-practices/commit/883c5a404d56b22675c5efd945a7fafdf14de595) （完成 Controller 部分，测试用例都通过）
+- 第六章：
+    - [使用 Thymeleaf](https://github.com/hezhii/spring-in-action-practices/tree/master/thymeleaf)
 - 第十章：[jdbc](https://github.com/hezhii/spring-in-action-practices/tree/master/jdbc)
 - 第十一章：
     - [Hibernate](https://github.com/hezhii/spring-in-action-practices/tree/master/hibernate)
