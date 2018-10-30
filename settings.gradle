@@ -20,4 +20,5 @@ include 'springdata'
 include 'mongodb'
 include 'caching'
 include 'thymeleaf'
+include 'spring-security'
 

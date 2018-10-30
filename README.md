@@ -25,6 +25,7 @@
 - 第五章：[Spittr](https://github.com/hezhii/spring-in-action-practices/commit/883c5a404d56b22675c5efd945a7fafdf14de595) （完成 Controller 部分，测试用例都通过）
 - 第六章：
     - [使用 Thymeleaf](https://github.com/hezhii/spring-in-action-practices/tree/master/thymeleaf)
+- 第九章：[Spring Security]((https://github.com/hezhii/spring-in-action-practices/tree/master/spring-security))
 - 第十章：[jdbc](https://github.com/hezhii/spring-in-action-practices/tree/master/jdbc)
 - 第十一章：
     - [Hibernate](https://github.com/hezhii/spring-in-action-practices/tree/master/hibernate)
