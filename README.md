@@ -36,3 +36,4 @@
 - 第十三章：[缓存数据](https://github.com/hezhii/spring-in-action-practices/tree/master/caching)
 - 第十六章：
     - [协商资源表述](https://github.com/hezhii/spring-in-action-practices/tree/master/spitter-api-content-negotiation)
+    - [使用 HTTP 信息转换器](https://github.com/hezhii/spring-in-action-practices/tree/master/spitter-api-message-converters)
