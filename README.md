@@ -34,3 +34,5 @@
 - 第十二章：
     - [MongoDD](https://github.com/hezhii/spring-in-action-practices/tree/master/mongodb)
 - 第十三章：[缓存数据](https://github.com/hezhii/spring-in-action-practices/tree/master/caching)
+- 第十六章：
+    - [协商资源表述](https://github.com/hezhii/spring-in-action-practices/tree/master/spitter-api-content-negotiation)

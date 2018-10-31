@@ -21,4 +21,5 @@ include 'mongodb'
 include 'caching'
 include 'thymeleaf'
 include 'spring-security'
+include 'spitter-api-content-negotiation'
 
