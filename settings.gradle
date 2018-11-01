@@ -23,4 +23,5 @@ include 'thymeleaf'
 include 'spring-security'
 include 'spitter-api-content-negotiation'
 include 'spitter-api-message-converters'
+include 'websocket'
 
